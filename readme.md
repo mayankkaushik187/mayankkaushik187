@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayank 👋
 
-## I'm a college student with Electronic and Communication as my major but I love to code!!
+## I'm a college student with Electronics and Communication as my major but I love to code!!
 
 - 🔭 I recently started coding.
 - 💯 I’m currently learning Data Structures and Algorithms(who isn't? xD)
