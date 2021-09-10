@@ -33,6 +33,7 @@
 
 <br />
 <br />
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkaushik187&theme=dracula">
 
 [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkaushik187&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
