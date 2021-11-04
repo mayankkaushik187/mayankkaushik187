@@ -36,8 +36,14 @@
 <br />
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkaushik187&theme=dracula">
 
-[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkaushik187&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayankkaushik187&show_icons=true&hide_border=true&theme=dracula" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkaushik187&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> </td>
+  </tr>
+ <table>
+   
 [twitter]: https://twitter.com/Mayankk96894463
 
 [instagram]: https://www.instagram.com/thisthatcaushic/
