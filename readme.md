@@ -1,4 +1,4 @@
-### Hi there, I'm Mayank 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Hi%20there,%20I'm%20Mayank👋&fontSize=50)
 
 ## I'm a college student with Electronics and Communication as my major but I love to code!!
 
