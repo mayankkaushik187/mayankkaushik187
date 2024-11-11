@@ -2,9 +2,9 @@
 
 ## I'm a college student with Electronics and Communication as my major and I love to code!!
 
-- 🔭 I recently started coding.
-- 💯 I’m currently learning Data Structures and Algorithms(who isn't? xD)
-- ⚡ Fun fact: I play valorant and completely destroy the server.
+- 🔭 I work at Hashedin by Deloitte as a SWE
+- 💯 I’m currently trying to get really good at competitive programming, simultaneously building projects and working POCs.
+- ⚡ Fun fact: I play CS2 and completely destroy the server.
 
 <img align="right" height="300" width="300" src="https://media4.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e47912mbghqxstfte6mycc0knvmwcnaueva1d2r4atb&rid=giphy.gif&ct=g" border-radius="rounded" />
 
