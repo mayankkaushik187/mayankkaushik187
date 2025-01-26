@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Hi%20there,%20I'm%20Mayank👋&fontSize=50)
 
-## I'm a college student with Electronics and Communication as my major and I love to code!!
+## I'm a Software Engineer and I love to code!!
 
 - 🔭 I work at Hashedin by Deloitte as a SWE
 - 💯 I’m currently trying to get really good at competitive programming, simultaneously building projects and working POCs.
